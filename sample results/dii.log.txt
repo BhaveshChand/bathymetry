@@ -1,0 +1,17 @@
+6.125: DII Processing started
+6.125: Land clipping started
+Threshold DN value for land-sea separation: 10000.0
+6.15625: Conversion to radiance started
+6.21875: Conversion to radiance started
+6.265625: Water Column Correction started
+Variance of blue band: 0.000457409456903
+Variance of green band: 0.00238498266996
+Mean of blue band: 4.822369221
+Mean of green band: 4.57408357177
+Covariance of both bands: 0.000480286594318
+Ratio of attenuation coefficients (k_blue/k_green): 0.235363625921
+6.296875: Saving colormap started
+Colormap path: /mnt/c/Users/DELL/Desktop/PS-1 Project/LandSat 8 OLI South Andaman/clipped/diicolor.png7.8125: Saving graymap started
+Greyscale file path: /mnt/c/Users/DELL/Desktop/PS-1 Project/LandSat 8 OLI South Andaman/clipped/diigray.tifMax. measured depth invariant index: 3.94218124622 was scaled to 65535
+Min. measured depth invariant index: 3.64337708794 was scaled to 1
+7.828125: DII Processing ended

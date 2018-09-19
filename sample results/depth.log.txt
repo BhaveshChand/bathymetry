@@ -1,0 +1,12 @@
+6.875: Depth Processing started
+6.875: Land clipping started
+Threshold DN value for land-sea separation: 10000.0
+6.90625: Conversion to radiance started
+Regression coefficient: Slope = -2.05430438134
+Regression coefficient: Intercept = 212.805514259
+R2 score of the analysis: 0.387169323618
+9.109375: Saving colormap started
+Colormap path: /mnt/c/Users/DELL/Desktop/PS-1 Project/2016B5A70715P_BHAVESH RANJIT CHAND/Bathymetry project/result/depthcolor.png10.578125: Saving graymap started
+Greyscale file path: /mnt/c/Users/DELL/Desktop/PS-1 Project/2016B5A70715P_BHAVESH RANJIT CHAND/Bathymetry project/result/depthgray.tifMax. measured depth: 33.8112971441 was scaled to 65535
+Min. measured depth: -66.8591216286 was scaled to 1
+10.625: Depth Processing ended
