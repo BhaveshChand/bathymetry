@@ -4,4 +4,4 @@ This repository contains code for project "Development of Software Tool for Bath
 I did this project as Summer Intern at Indian Institute of Remote Sensing, ISRO.
 
 This is implentation of a software that is able to extract water depth and albedo information in coastal regions 
-,using Stumpf's Algorithm on LandSat satellite imagery.
+,using Lyzenga's Algorithms on LandSat satellite imagery.
